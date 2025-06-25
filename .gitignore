@@ -34,6 +34,10 @@ yarn-error.log
 testem.log
 /typings
 
+# env
+.env
+.env.production
+
 # System Files
 .DS_Store
 Thumbs.db
@@ -42,3 +46,5 @@ Thumbs.db
 .nx/workspace-data
 .cursor/rules/nx-rules.mdc
 .github/instructions/nx.instructions.md
+
+test-output
